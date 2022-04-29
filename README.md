@@ -45,7 +45,7 @@ https://lwcjacky.github.io/restream_chat_public/
 * 單次授權時間為2個小時，授權將會失效。
 * 請勿短時間內多次同帳號連動，目前系統還只是公開預覽版，部分防呆機制待完成。
 * 帳號連動後無法手動取消，需等待授權過期
-> [name=李捷Jacky]
+
 
 
 
